@@ -24,7 +24,7 @@ const StyledMain = styled.section`
     background-color: #6e852373;
 `
 
-const Name = styled.h2`
+const Name = styled.h3`
     
 `
 
